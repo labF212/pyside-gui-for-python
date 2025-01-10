@@ -1,1 +1,1 @@
-# pyside-gui-for-python
+# Gui for Python Pyside
